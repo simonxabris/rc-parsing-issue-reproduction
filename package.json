@@ -1,0 +1,21 @@
+{
+  "name": "rc-parse-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "class-transformer": "^0.3.1",
+    "class-validator": "^0.12.2",
+    "reflect-metadata": "^0.1.13",
+    "routing-controllers": "^0.9.0-alpha.6",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  }
+}
